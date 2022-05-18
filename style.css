@@ -38,7 +38,7 @@ footer {
     grid-gap: 20px;
     grid-template-columns: repeat(10, 1fr);
     grid-template-rows: repeat(3, 0.5fr);
-    padding: 50px;
+    padding: 35px 50px;
   }
   
   .box-image-1 {
